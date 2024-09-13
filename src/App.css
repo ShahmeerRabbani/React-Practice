@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  height: 100vh;
+  width: 100vw;
+}
+
+.SignUp-Page, .Login-Page{
+  height: 100%;
+  width: 100%;
+  display: grid;
+  place-items: center;
+}
